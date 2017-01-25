@@ -1,3 +1,15 @@
+# Angular & Docker test client
+
+https://scotch.io/tutorials/create-a-mean-app-with-angular-2-and-docker-compose#dockerize-the-express-server-api
+
+## Rozmiar obrazu
+
+[] Wypadałoby przerobić Dockerfile tak, by jak najbardziej ograniczyć ilość instrukcji, bo kolejne generują nowe snapshoty zwiększając rozmiar obrazu. 
+
+http://jasonwilder.com/blog/2014/08/19/squashing-docker-images/
+http://jimhoskins.com/2013/07/27/remove-untagged-docker-images.html
+
+
 # Client
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
